@@ -1,0 +1,7 @@
+{
+  "output_folder": "C:\\Users\\YourUsername\\Documents\\OCR_Output",
+  "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "default_languages": ["ben", "eng"],
+  "auto_save_results": true,
+  "output_format": "txt"
+}
